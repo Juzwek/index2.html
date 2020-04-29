@@ -1,0 +1,41 @@
+.one{
+text-align:right;
+background-color:silver;
+color: #11AA33;
+}
+.two{
+border: 3px double;
+letter-spacing: 1mm;
+}
+.three{
+color:blue;
+text-align:right;
+width: 50%;
+word-spacing: 1em;
+text-indent: 5em;
+}
+.four{
+font-family: Arial, Helvetica, sans-serif;
+word-spacing: 15px;
+letter-spacing: 5px;
+}
+.five{
+text-decoration: overline;
+font-weight: bold;
+text-indent: 10%;
+}
+.six{
+font-weight: bold;
+}
+.seven{
+background-color: #FFFFCC;
+}
+.eight{
+list-style-type: square;
+}
+.nine{
+font-weight: bold;text-indent: 5%;
+}
+.ten{
+text-indent: 5%;
+}
